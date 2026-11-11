@@ -1,0 +1,12 @@
+earthengine-api
+geemap
+segmentation-models-pytorch
+torch
+rasterio
+geopandas
+pyproj
+numpy
+pandas
+scipy
+matplotlib
+requests

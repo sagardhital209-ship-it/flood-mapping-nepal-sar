@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Terrain-aware deep learning for rapid SAR flood mapping in the Himalaya (code)"
+type: software
+version: 1.0.0
+date-released: 2026-11-11
+license: MIT
+authors:
+  - family-names: Dhital
+    given-names: Sagar
+    affiliation: "Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente"
+  - family-names: Bandhan
+    given-names: Topendra
+    affiliation: "Department of Geomatics Engineering, Kathmandu University"
+  - family-names: Chaulagain
+    given-names: Bijeta
+    affiliation: "Department of Geomatics Engineering, Kathmandu University"
+keywords: [flood mapping, Sentinel-1, SAR, deep learning, U-Net, HAND, Nepal, Himalaya]
